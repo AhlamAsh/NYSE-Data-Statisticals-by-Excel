@@ -1,0 +1,1 @@
+# NYSE-Data-Statisticals-by-Excel
